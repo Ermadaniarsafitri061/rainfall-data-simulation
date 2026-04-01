@@ -25,3 +25,4 @@ This project aims to generate synthetic rainfall data for South Lampung using st
 
 ## 📁 Dataset
 - BMKG rainfall data (South Lampung)
+  https://docs.google.com/spreadsheets/d/1lZbP_8gGuGt33SunEs6I6KurEoqExU8AI735WlXNXN4/edit?usp=sharing
